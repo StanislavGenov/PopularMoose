@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header.png)
 <h1 align="center">Hi 👋, I'm Stanislav Genov</h1>
 <h3 align="center">A passionate fullstack developer from Bulgaria</h3>
 
