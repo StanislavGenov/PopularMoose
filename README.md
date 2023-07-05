@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [NASAcademy](https://github.com/PopularMoose/NASAcademy.git)
 
-- 🌱 I’m currently learning **ASP.NET Core**
-
-- 💬 Ask me about **C#**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **stasigenov456@gmail.com**
 
