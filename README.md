@@ -1,5 +1,5 @@
 ![Header](./github-header.png)
-<h1 align="center">Junior Developer</h1>
+<h1 align="center">Junior Fullstack Developer</h1>
 
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/devpost/image/fetch/s--A2UfYPs---/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/aditya-5/aditya-5/blob/main/code.gif%3Fraw%3Dtrue">
