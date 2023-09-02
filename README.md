@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/devpost/image/fetch/s--A2UfYPs---/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/aditya-5/aditya-5/blob/main/code.gif%3Fraw%3Dtrue">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=popularmoose&label=Profile%20views&color=0e75b6&style=flat" alt="popularmoose" /> </p>
 
-- 🔭 I’m currently working on [NASAcademy](https://github.com/PopularMoose/NASAcademy.git)
+- 🔭 I’m currently working on Private Project
 
 - 🌱 I’m currently learning **Angular**
 
