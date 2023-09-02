@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+![Header](./github-header-image.png)
 <h1 align="center">Junior Full Stack Developer</h1>
 
 
