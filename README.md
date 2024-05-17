@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Private Project
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React and C++**
 
 - 📫 How to reach me **stasigenov456@gmail.com**
 
